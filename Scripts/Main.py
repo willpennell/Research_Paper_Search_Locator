@@ -1,5 +1,5 @@
 #! python3
-# keywordSentenceLocater.py - enter folder path location and keyword or search term, this will read all pdfs in and add all the sentences that contains keyword into a txt file.
+# Main.py - enter folder path location and keyword or search term, this will read all pdfs in and add all the sentences that contains keyword into a txt file.
 import re, os, pdfFormat
 from pathlib import Path
 #Inputs for file location and keyword
