@@ -1,0 +1,5 @@
+Library Versions
+pathlib 1.0.1
+pdfminer.six 20201018 (if not (pdfminer 20191125))
+
+Python 3.8.4
